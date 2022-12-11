@@ -25,6 +25,6 @@ Below is the system design
 ![System Design](Figures/sys_design.png)
 
 
-Our github page is https://github.com/ttorku/CSCI_6330_project
+
 
 Data can be downloaded from https://www.tn.gov/health/cedep/ncov/data/downloadable-datasets.html
