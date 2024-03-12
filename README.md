@@ -28,3 +28,6 @@ Below is the system design
 
 
 Data can be downloaded from https://www.tn.gov/health/cedep/ncov/data/downloadable-datasets.html
+
+**The link to the Paper Published:** https://www.sciencedirect.com/science/article/pii/S2666827023000361
+
