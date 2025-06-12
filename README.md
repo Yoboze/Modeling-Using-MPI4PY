@@ -1,4 +1,4 @@
-# CSCI_6330_project
+# Minimization of high computational cost in data preprocessing and modeling using MPI4Py
 
 This project entails application of parallel processing techniques to data preprocessing and modelling.
 A popular python library MPI4Py is deployed to speed up the preprocessing of data. For comparative analysis, 
